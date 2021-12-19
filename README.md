@@ -1,2 +1,1 @@
-# real-time-mod.github.io
-Website
+# Real Time Mod Website
