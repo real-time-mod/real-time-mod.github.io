@@ -61,6 +61,20 @@ li {
   text-align: center;
 }
 
+indent {
+  margin-left: 12px;
+}
+
+.comment {
+  padding: 30px 0px 30px 30px;
+  border-left: 10px solid DarkGoldenrod;
+  background-color: Goldenrod;
+  margin: 15px 0px;
+  font-weight: bold;
+  font-family: "Courier New", "Lucida Console", monospace;
+  border-radius: 12px;
+}
+
 /* BUTTONS */
 .button {
   background-color: #4CAF50;
